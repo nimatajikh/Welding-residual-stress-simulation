@@ -14,11 +14,11 @@ Fillet welds result in lower residual stresses than CJP groove welds.
 
 # **Contents**
 
-Fortran/ – Fortran DFLUX subroutine used in the Abaqus simulation
+Code: Fortran DFLUX subroutine used in the Abaqus simulation
 
-Models/ – Abaqus model input file
+Model: Abaqus model input file
 
-README.md – This file
+README.md: This file
 
 # **Requirements**
 
