@@ -18,8 +18,6 @@ Code: Fortran DFLUX subroutine used in the Abaqus simulation
 
 Model: Abaqus model input file
 
-README.md: This file
-
 # **Requirements**
 
 Abaqus (tested with version 2024)
