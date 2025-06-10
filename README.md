@@ -1,6 +1,6 @@
 # **Welding Residual Stress Simulation**
 
-This repository contains the source code and simulation files used to analyze residual stresses in welded built-up steel box columns, as presented in the associated research paper.
+This repository contains the source code, and simulation results used in the study: “Comparative Numerical Analysis of Residual Stresses in Fillet and CJP Welded Built-Up Steel Box-Shaped Columns”
 
 # **Overview**
 
