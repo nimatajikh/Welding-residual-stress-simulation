@@ -1,6 +1,6 @@
 # **Welding Residual Stress Simulation**
 
-This repository contains the source code, and simulation results used in the study: “Comparative Numerical Analysis of Residual Stresses in Fillet and CJP Welded Built-Up Steel Box-Shaped Columns”
+This repository contains the source code, and simulation results used in the study: “Comparative numerical analysis of residual stresses in fillet and CJP welded built-up steel box-shaped columns”
 
 # **Overview**
 
